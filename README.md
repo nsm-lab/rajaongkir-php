@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RajaOngkir PHP Client
 Merupakan PHP Client untuk mengkonsumsi API dari RajaOngkir. Library ini memanfaatkan [Unirest versi ~1.2](https://packagist.org/packages/mashape/unirest-php#1.2.1) sebagai REST client.
 ## Instalasi
@@ -41,3 +42,7 @@ $json_body = $cost->raw_body;
 Silakan lihat code [RajaOngkir.php](https://github.com/hok00age/rajaongkir-php/blob/master/src/RajaOngkir.php), di dalamnya terdapat komentar yang dapat membantu Anda.
 ### Referensi
 [Dokumentasi RajaOngkir](http://rajaongkir.com/dokumentasi)
+=======
+# rajaongkir-php
+PHP client untuk mengkonsumsi API RajaOngkir
+>>>>>>> da386c5a5fe261d255eec704d2a7bc67a6dc362f
